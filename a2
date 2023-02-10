@@ -1,0 +1,5 @@
+rno = 10
+name = 'Abhishek'
+
+
+print('rno = ',rno,'Name = ',name)
